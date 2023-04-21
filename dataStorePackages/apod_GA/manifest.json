@@ -2,7 +2,7 @@
     "manifest": {
       "installStateChanges": "INFORM",
       "updateStateChanges": "INFORM",
-      "id": "apod",
+      "id": "apod_GA",
       "version": "1.0.0",
       "presentationDefinitions": [
         {

@@ -2,7 +2,7 @@
     "packageVersion": "1.2",
     "packageType": "WIDGET",
     "manifest": {
-        "id": "apod",
+        "id": "apod_old",
         "version": "1.0.0",
         "type": "APL_WIDGET",
         "targetViewports": [
